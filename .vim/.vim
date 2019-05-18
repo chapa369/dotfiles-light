@@ -1,0 +1,1 @@
+/home/hironoripc/.dotfiles/.vim
