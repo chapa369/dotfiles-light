@@ -6,7 +6,7 @@
 
 #PATHの設定
 #gopath
-export PATH=”/usr/lib/go-1.10/bin:$PATH”
+export PATH="$PATH:/usr/lib/go-1.10/bin"
 
 
 #zshの起動
