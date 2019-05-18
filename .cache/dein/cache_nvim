@@ -1,0 +1,3 @@
+['/Users/matsumoto.hironori/.dotfiles/.config/nvim/init.vim']
+{"dein.vim": {"lazy": 0, "name": "dein.vim", "rtp": "/Users/matsumoto.hironori/.cache/dein/repos/github.com/Shougo/dein.vim", "repo": "/Users/matsumoto.hironori/.cache/dein/repos/github.com/Shougo/dein.vim/", "normalized_name": "dein", "type": "git", "local": 1, "merged": 0, "sourced": 1, "path": "/Users/matsumoto.hironori/.cache/dein/repos/github.com/Shougo/dein.vim"}, "deoplete.nvim": {"lazy": 0, "path": "/Users/matsumoto.hironori/.cache/dein/repos/github.com/Shougo/deoplete.nvim", "repo": "Shougo/deoplete.nvim", "merged": 1, "normalized_name": "deoplete", "type": "git", "rtp": "/Users/matsumoto.hironori/.cache/dein/repos/github.com/Shougo/deoplete.nvim", "sourced": 1, "name": "deoplete.nvim"}}
+{}
